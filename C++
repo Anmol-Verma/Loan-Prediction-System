@@ -1,0 +1,10 @@
+# Loan-Prediction-System
+Data Science Project using Logistic Regression
+#include<iostream.h>
+#include<conio.h>
+main()
+{
+ cout<<"Anmol Verma, What are you up to?";
+ }
+getch();
+}
